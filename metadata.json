@@ -1,7 +1,0 @@
-{
-  "name": "SS Draft CAD",
-  "description": "Professional 2D & Isometric CAD drafting software for Stainless Steel fabrication, tanks, equipment blueprints with real mm measurements, AutoCAD tools, and manufacturing title block export.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
